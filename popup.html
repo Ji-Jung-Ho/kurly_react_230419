@@ -180,6 +180,8 @@
                 // sessionStorage.removeItem('키');          삭제하기
 
                 opener.sessionStorage.setItem('kurly_search_address', JSON.stringify(주소));
+
+                // 현재 주소 저장에 문제가 있어 새로고침을 해야 세션스토리지에 주소가 저장됨
                 opener.document.location.reload();
 
                 // 팝업창 닫기
