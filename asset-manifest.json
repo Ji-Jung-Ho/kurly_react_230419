@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kurly_react_230419/static/js/main.b1fa7066.js",
-    "index.html": "/kurly_react_230419/index.html",
-    "main.b1fa7066.js.map": "/kurly_react_230419/static/js/main.b1fa7066.js.map"
+    "main.js": "/kurly_react_230419_deploy/static/js/main.2f536a0d.js",
+    "index.html": "/kurly_react_230419_deploy/index.html",
+    "main.2f536a0d.js.map": "/kurly_react_230419_deploy/static/js/main.2f536a0d.js.map"
   },
   "entrypoints": [
-    "static/js/main.b1fa7066.js"
+    "static/js/main.2f536a0d.js"
   ]
 }
